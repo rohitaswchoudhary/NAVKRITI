@@ -4862,14 +4862,14 @@ z-index: 1;
 }
 
 .neonText {
-  color: #fff;
+  color: rgb(255, 255, 255);
   text-shadow:
       0 0 7px #fff,
       0 0 10px #fff,
       0 0 21px #fff,
-      0 0 42px rgb(143, 209, 21),
-      0 0 82px rgb(0, 2, 1),
-      0 0 92px rgb(27, 44, 38),
+      0 0 42px rgb(209, 74, 21),
+      0 0 82px rgb(243, 138, 17),
+      0 0 92px rgb(219, 173, 114),
       0 0 102px rgb(16, 77, 56),
       0 0 151px rgb(59, 128, 57);
 }
